@@ -1,3 +1,10 @@
+# VMOMS-specific
+fort.11
+fort.12
+vmoms
+old/**
+
+
 # Prerequisites
 *.d
 
