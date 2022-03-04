@@ -17,7 +17,7 @@ F77:=gfortran --std=legacy
 
 all: vmoms
 clean:
-	rm -rf obj
+	rm -rf obj obj_3rd
 	rm -f vmoms
 
 obj/%.o: src/%.f
